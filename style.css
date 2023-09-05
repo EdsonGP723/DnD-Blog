@@ -1,4 +1,46 @@
 html
 {
     font-family: 'Cormorant Garamond', serif;
+    font-size: larger;
+    background-color: black;
+    scroll-behavior: smooth;
+}
+
+img {
+    max-width: 15%;
+    max-height: 15%;
+}
+
+.RedFont{
+    color: red;
+}
+
+.bordes{
+    border-style: solid;
+    border-color: red;
+}
+
+.fontsize{
+    font-size: x-large;
+}
+
+a{
+    color: red;
+    
+}
+
+details{
+    color: red;
+}
+
+.whitefont{
+    color: white;
+}
+
+.centertext{
+    text-align: center;
+}
+
+.smallfont{
+    font-size: smaller;
 }
